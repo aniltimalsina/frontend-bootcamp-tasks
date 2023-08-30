@@ -1,0 +1,22 @@
+/*CSS Reset */
+
+* {
+  margin: 0;
+}
+
+header {
+  background-color: aqua;
+  margin-bottom: 10px;
+}
+
+body {
+  background-color: azure;
+}
+
+footer {
+  margin: 20px 30px;
+}
+
+p {
+  font-weight: bold;
+}
